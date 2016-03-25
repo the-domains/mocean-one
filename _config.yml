@@ -1,7 +1,7 @@
 name: Mocean One
 favicon: null
-layout_spectrum: 0.847838825546205
-typography_spectrum: 0.4053525954950601
+layout_spectrum: 0.46656
+typography_spectrum: 0.57046
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.6889124349690974
+  brandStrength: 0.6875
   lightness: 0.04718157020397484
   saturation: 0.8481098453048617
   rhythmicContrast: 0.23353470372967422
