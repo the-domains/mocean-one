@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Spotify for Ocean data]]></title>
         <description><![CDATA[Spotify for Ocean data]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mocean-one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 13:30:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 14:07:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mocean-one/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[About us]]></title>
-            <description><![CDATA[<article><h1>About us</h1><p>Mocean One AS is democratizing ocean data management. Currently knowledge about the worlds ocean is accessed by larger companies, organisations and regulators. However information is distributed and therefore it is impossible to act on it in a sustainable manner. Imagine you would have access to all information about the worlds ocean - covering 70% of Planet Earth. Imagine you can use this information to better protect our people affected by climate change and the increase of extreme weather conditions. Imagine you can protect the environment by learning about geological, metrological and ecological mechanisms on land and underwater. Imagine you can efficiently plan, develop and utilise assets from the ocean space by providing needed energy and other resources to the people with a minimal environmental footprint. What would you do?  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9bbb6a-ef1c-4bf9-a690-4b8e04b06387.jpg"></article>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <title><![CDATA[Mocean One Manifesto]]></title>
+            <description><![CDATA[<article><h1>Mocean One Manifesto</h1><p>Currently we do not know much about the worlds ocean. In fact we know more about Planet Mars than about 70% of our own Planet Earth. The few who have access to  . However information is distributed and therefore it is impossible to act on it in a sustainable manner. Imagine you would have access to all information about the worlds ocean - covering 70% of Planet Earth. Imagine you can use this information to better protect our people affected by climate change and the increase of extreme weather conditions. Imagine you can protect the environment by learning about geological, metrological and ecological mechanisms on land and underwater. Imagine you can efficiently plan, develop and utilise assets from the ocean space by providing needed energy and other resources to the people with a minimal environmental footprint. What would you do?  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9bbb6a-ef1c-4bf9-a690-4b8e04b06387.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mocean-one/about-us/index.html</link>
             <guid isPermaLink="false">654921a6-4c8a-489f-85d3-f5260dbb9367</guid>
-            <pubDate>Fri, 25 Mar 2016 13:30:17 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2016 14:06:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
