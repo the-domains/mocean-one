@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T21:28:23.254Z'
-dateModified: '2016-03-28T21:28:22.514Z'
+datePublished: '2016-03-28T21:30:36.634Z'
+dateModified: '2016-03-28T21:29:41.362Z'
 title: Imagine you have access to all information about the worlds ocean
 author: []
 sourcePath: _posts/2016-03-28-imagine-tomorrow.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: imagine-tomorrow/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/072c305d-dc57-455c-85a5-280c719d526e.jpg)
