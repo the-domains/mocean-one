@@ -2,13 +2,14 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-28T21:37:33.089Z'
-dateModified: '2016-03-28T21:37:28.670Z'
-title: Tomorrow you can have access to all information about the worlds ocean
+description: You understand climate change implications and its effects on extreme weather events. It empowers you to develop predictive and condition based lifesaving solutions for all of us.
+datePublished: '2016-03-28T21:54:04.083Z'
+dateModified: '2016-03-28T21:53:57.186Z'
+title: Providing access to ocean data and analytics
 author: []
 sourcePath: _posts/2016-03-28-imagine-tomorrow.md
 published: true
@@ -21,9 +22,9 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/072c305d-dc57-455c-85a5-280c719d526e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dde8edf5-aeb7-4f87-8a06-b4105d084cb7.jpg)
 
-# Tomorrow you can have access to all information about the worlds ocean
+# Providing access to ocean data and analytics
 
 You understand climate change implications and its effects on extreme weather events. It empowers you to develop predictive and condition based lifesaving solutions for all of us.
 
