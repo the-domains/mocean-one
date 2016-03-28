@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Ocean data and insights have been been gathered for decades. But the collected information is only accessible to less than 1% of the worlds population.'
-datePublished: '2016-03-28T21:13:52.243Z'
-dateModified: '2016-03-28T21:12:38.891Z'
+datePublished: '2016-03-28T21:16:05.826Z'
+dateModified: '2016-03-28T21:15:44.642Z'
 author: []
 title: 'Today, we know more about the Planet Mars than about 70% of our Planet Earth - the worlds ocean'
 sourcePath: _posts/2016-03-28-at-this-moment-in-time-we-dont-know-much-about-the-worlds.md
