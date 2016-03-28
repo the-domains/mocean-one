@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'Imagine Tomorrow you would have access to all information about the worlds ocean = 70% of Planet Earth'
-datePublished: '2016-03-28T21:01:50.635Z'
-dateModified: '2016-03-28T21:01:46.315Z'
+datePublished: '2016-03-28T21:03:51.448Z'
+dateModified: '2016-03-28T21:03:49.184Z'
 title: Tomorrow
 author: []
 sourcePath: _posts/2016-03-28-imagine-tomorrow.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: imagine-tomorrow/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/072c305d-dc57-455c-85a5-280c719d526e.jpg)
