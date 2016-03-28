@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Ocean data collector?Contact us to learn more about how you can generate new revenue streams from your data sets.
-datePublished: '2016-03-28T21:07:33.689Z'
-dateModified: '2016-03-28T21:07:20.927Z'
-title: Be amongst the first ...
+description: "Ocean Data User?Contact us and be amongst the first to access actionable underwater data and insights\_at a fraction of your current costs."
+datePublished: '2016-03-28T21:14:24.679Z'
+dateModified: '2016-03-28T21:08:15.989Z'
+title: Be amongst the first to benefit from new insights and revenue streams.
 author: []
 sourcePath: _posts/2016-03-28-get-in-touch-today.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33edbeda-c38d-433b-94ab-40e59d2044a6.jpg)
 
-Be amongst the first to benefit from new insights and revenue streams.
+# Be amongst the first to benefit from new insights and revenue streams.
 
 **Ocean data collector?**[Contact us][0] to learn more about how you can generate new revenue streams from your data sets.
 
