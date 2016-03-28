@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'file:///Users/CT/Dropbox/CT/Moonwalk/Atlantis/bigstock-Undersea-Ruins-15339461%20copy.jpg'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Ocean data and insights have been been gathered for decades. But the collected information is only accessible to less than 1% of the worlds population.'
-datePublished: '2016-03-28T21:35:55.501Z'
-dateModified: '2016-03-28T21:34:15.622Z'
+datePublished: '2016-03-28T22:24:24.934Z'
+dateModified: '2016-03-28T22:22:13.951Z'
 author: []
 title: 'Today, we know more about the Planet Mars than about 70% of our Planet Earth - the worlds ocean'
 sourcePath: _posts/2016-03-28-at-this-moment-in-time-we-dont-know-much-about-the-worlds.md
