@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Ocean data collector?Contact us to learn more about how you can generate new revenue streams from your data sets.
-datePublished: '2016-03-28T20:59:23.783Z'
-dateModified: '2016-03-28T20:38:40.452Z'
+datePublished: '2016-03-28T21:03:09.157Z'
+dateModified: '2016-03-28T21:03:06.665Z'
 title: Be amongst the first ...
 author: []
 sourcePath: _posts/2016-03-28-get-in-touch-today.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: get-in-touch-today/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33edbeda-c38d-433b-94ab-40e59d2044a6.jpg)
