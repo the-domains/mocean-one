@@ -4,12 +4,12 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: You understand climate change implications and its effects on extreme weather events. It empowers you to develop predictive and condition based lifesaving solutions for all of us.
-datePublished: '2016-03-28T21:53:54.067Z'
-dateModified: '2016-03-28T21:53:35.611Z'
-title: Providing access to ocean data and analytics
+datePublished: '2016-03-28T21:57:54.090Z'
+dateModified: '2016-03-28T21:57:47.690Z'
+title: 'Imagine tomorrow, you can access all ocean data and insights'
 author: []
 sourcePath: _posts/2016-03-28-imagine-tomorrow.md
 published: true
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dde8edf5-aeb7-4f87-8a06-b4105d084cb7.jpg)
 
-# Providing access to ocean data and analytics
+# Imagine tomorrow, you can access all ocean data and insights
 
 You understand climate change implications and its effects on extreme weather events. It empowers you to develop predictive and condition based lifesaving solutions for all of us.
 
