@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Ocean Data User?\_Be amongst the first to access actionable underwater data and insights\_at a fraction of your current costs."
-datePublished: '2016-03-28T21:34:26.717Z'
-dateModified: '2016-03-28T21:32:58.874Z'
+datePublished: '2016-03-28T21:36:08.468Z'
+dateModified: '2016-03-28T21:34:35.477Z'
 title: Be amongst the first to benefit from new insights and revenue streams.
 author: []
 sourcePath: _posts/2016-03-28-get-in-touch-today.md
