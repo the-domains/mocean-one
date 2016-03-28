@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: You now ...
-datePublished: '2016-03-28T20:24:48.522Z'
-dateModified: '2016-03-28T20:24:45.875Z'
-title: Imagine Tomorrow
+description: 'Imagine Tomorrow you would have access to all information about the worlds ocean = 70% of Planet Earth'
+datePublished: '2016-03-28T20:32:10.667Z'
+dateModified: '2016-03-28T20:32:05.456Z'
+title: Tomorrow
 author: []
 sourcePath: _posts/2016-03-28-imagine-tomorrow.md
 published: true
