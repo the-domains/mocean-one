@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Imagine Tomorrow you would have access to all information about the worlds ocean = 70% of Planet Earth'
-datePublished: '2016-03-28T20:18:00.355Z'
-dateModified: '2016-03-28T20:17:02.869Z'
+description: You now ...
+datePublished: '2016-03-28T20:24:48.522Z'
+dateModified: '2016-03-28T20:24:45.875Z'
 title: Imagine Tomorrow
 author: []
 sourcePath: _posts/2016-03-28-imagine-tomorrow.md
@@ -22,6 +22,8 @@ url: imagine-tomorrow/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1520aa13-98ee-457b-8fa3-0c9fe009575e.jpg)
+
 Imagine Tomorrow you would have access to all information about the worlds ocean = 70% of Planet Earth
 
 You now ...
@@ -32,4 +34,4 @@ You now ...
 
 All of us now ...
 
-* have access to knowledge and insights about 70% of Planet Earth. We are empowered to protect the people, the environment and to develop solutions that provide needed resources. This is for us, our children and future generations to come.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f31c7048-befb-48ef-8e3d-09a67cc1b669.jpg)
+* have access to knowledge and insights about 70% of Planet Earth. We are empowered to protect the people, the environment and to develop solutions that provide needed resources. This is for us, our children and future generations to come.
