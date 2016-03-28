@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Join forces to solve one of the last mysteries on our planet - Demystifying the worlds ocean and ensuring a sustainable management of its resources for all Earthlings.\_"
-datePublished: '2016-03-28T21:26:00.364Z'
-dateModified: '2016-03-28T21:14:40.071Z'
+datePublished: '2016-03-28T21:31:15.414Z'
+dateModified: '2016-03-28T21:26:09.938Z'
 title: We are looking for team members with a passion for
 author: []
 sourcePath: _posts/2016-03-28-join-us-today.md
