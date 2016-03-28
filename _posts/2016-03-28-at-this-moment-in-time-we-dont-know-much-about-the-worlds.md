@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: "At this moment in time, we don´t know much about the worlds ocean. In fact we know more about the Planet Mars than about 70% of our Planet Earth.\_"
-datePublished: '2016-03-28T21:02:13.534Z'
-dateModified: '2016-03-28T21:02:07.167Z'
+datePublished: '2016-03-28T21:04:39.751Z'
+dateModified: '2016-03-28T21:04:35.566Z'
 author: []
 title: Today
 sourcePath: _posts/2016-03-28-at-this-moment-in-time-we-dont-know-much-about-the-worlds.md
@@ -25,7 +25,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6a8f20a-1a58-443b-bc7b-86e3cfac3078.jpg)
 
-At this moment in time, we don´t know much about the worlds ocean. In fact we know more about the Planet Mars than about 70% of our Planet Earth. 
+Today, we don´t know much about the worlds ocean. In fact we know more about the Planet Mars than about 70% of our Planet Earth. 
 
 Ocean data and insights have been been gathered for decades. But the collected information is only accessible to less than 1% of the worlds population.
 
