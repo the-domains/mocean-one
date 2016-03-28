@@ -1,7 +1,7 @@
 name: Mocean One
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.89532
+layout_spectrum: 0.48936
+typography_spectrum: 0.12766
 title: 'Demystifying the Worlds Ocean '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#257395'
     - '#42a6b3'
     - '#65c7d2'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.625
-  saturation: 1
+  saturation: 0.5625
   rhythmicContrast: 0.75
 purpose: []
