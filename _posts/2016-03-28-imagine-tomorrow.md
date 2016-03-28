@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T21:30:36.634Z'
-dateModified: '2016-03-28T21:29:41.362Z'
-title: Imagine you have access to all information about the worlds ocean
+datePublished: '2016-03-28T21:31:07.779Z'
+dateModified: '2016-03-28T21:30:38.254Z'
+title: Tomorrow you can have access to all information about the worlds ocean
 author: []
 sourcePath: _posts/2016-03-28-imagine-tomorrow.md
 published: true
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/072c305d-dc57-455c-85a5-280c719d526e.jpg)
 
-# Imagine you have access to all information about the worlds ocean
+# Tomorrow you can have access to all information about the worlds ocean
 
 You understand climate change implications and its effects on extreme weather events. It empowers you to develop predictive and condition based lifesaving solutions for all of us.
 
