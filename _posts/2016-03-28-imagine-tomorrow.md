@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: You understand climate change implications and its effects on extreme weather events. It empowers you to develop predictive and condition based lifesaving solutions for all of us.
-datePublished: '2016-03-28T21:54:04.083Z'
-dateModified: '2016-03-28T21:53:57.186Z'
+datePublished: '2016-03-28T21:53:54.067Z'
+dateModified: '2016-03-28T21:53:35.611Z'
 title: Providing access to ocean data and analytics
 author: []
 sourcePath: _posts/2016-03-28-imagine-tomorrow.md
