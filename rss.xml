@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Demystifying the Worlds Ocean ]]></title>
+        <description><![CDATA[Demystifying the Worlds Ocean ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 21:04:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tomorrow]]></title>
+            <description><![CDATA[<article><h1>Tomorrow</h1><p>Imagine Tomorrow you would have access to all information about the worlds ocean = 70% of Planet Earth</p></article>]]></description>
+            <link>undefinedimagine-tomorrow/index.html</link>
+            <guid isPermaLink="false">2a53a2cd-2981-4503-af32-13e03509641f</guid>
+            <pubDate>Mon, 28 Mar 2016 21:03:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
