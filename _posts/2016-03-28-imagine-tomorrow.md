@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Imagine Tomorrow you would have access to all information about the worlds ocean = 70% of Planet Earth'
-datePublished: '2016-03-28T20:32:10.667Z'
-dateModified: '2016-03-28T20:32:05.456Z'
+datePublished: '2016-03-28T20:34:33.701Z'
+dateModified: '2016-03-28T20:34:18.930Z'
 title: Tomorrow
 author: []
 sourcePath: _posts/2016-03-28-imagine-tomorrow.md
@@ -26,12 +26,12 @@ _type: Article
 
 Imagine Tomorrow you would have access to all information about the worlds ocean = 70% of Planet Earth
 
-You now ...
+Now, you
 
 * better understand climate change implications and its effects on extreme weather events. It empowers you to develop predictive and condition based lifesaving solutions for all of us.
 * better understand the geological, meteorological and ecological mechanisms. It empowers you to develop solutions that protect and nurture the marine environment. 
 * better understand how to optimise energy production in - and resource extraction from the ocean. It empowers you to develop new solutions and markets providing food, materials, energy, medicine, etc. from oceans whilst land based resources are depleting.
 
-All of us now ...
+Now, all of us
 
 * have access to knowledge and insights about 70% of Planet Earth. We are empowered to protect the people, the environment and to develop solutions that provide needed resources. This is for us, our children and future generations to come.
