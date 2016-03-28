@@ -4,7 +4,7 @@
         <description><![CDATA[Demystifying the Worlds Ocean ]]></description>
         <link>https://thegrid.ai/mocean-one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 21:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 21:02:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mocean-one/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Be amongst the first ...]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/mocean-one/get-in-touch-today/index.html</link>
             <guid isPermaLink="false">727d583e-c3c7-4db8-9a89-27535adea80e</guid>
             <pubDate>Mon, 28 Mar 2016 20:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today]]></title>
-            <description><![CDATA[<article><h1>Today</h1><p>At this moment in time, we don´t know much about the worlds ocean. In fact we know more about the Planet Mars than about 70% of our Planet Earth. </p></article>]]></description>
-            <link>https://thegrid.ai/mocean-one/today/index.html</link>
-            <guid isPermaLink="false">e61e648c-4e6a-443d-ab40-ecb1a8bb4f32</guid>
-            <pubDate>Mon, 28 Mar 2016 20:57:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
