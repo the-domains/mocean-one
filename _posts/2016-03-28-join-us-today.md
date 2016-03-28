@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We are looking for you\_with a passion for\_"
-datePublished: '2016-03-28T20:12:31.482Z'
-dateModified: '2016-03-28T20:12:28.275Z'
+datePublished: '2016-03-28T20:23:48.527Z'
+dateModified: '2016-03-28T20:23:48.063Z'
 title: Join us TODAY
 author: []
 sourcePath: _posts/2016-03-28-join-us-today.md
@@ -27,8 +27,8 @@ _type: Article
 We are looking for you with a passion for 
 
 * marine geology, - biology, -chemistry, - physics
-* data science, artificial intelligence, statistical data analytics, software frontend - & backend development 
+* data science, artificial intelligence, statistical data analytics, software Front end - & Backend development 
 
-You now can join forces to solve one of the last mysteries on our planet - Demystifying the worlds ocean and ensuring a sustainable management of its resources for all Earthlings. [Please let us know][0] why you want to join and we get back to you soonest.
+[Join][0] forces to solve one of the last mysteries on our planet - Demystifying the worlds ocean and ensuring a sustainable management of its resources for all Earthlings. 
 
 [0]: carsten@moonwalk.me
