@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We are looking for you\_with a passion for\_"
-datePublished: '2016-03-28T20:32:32.283Z'
-dateModified: '2016-03-28T20:32:24.528Z'
+datePublished: '2016-03-28T20:51:36.238Z'
+dateModified: '2016-03-28T20:51:33.465Z'
 title: Join our team
 author: []
 sourcePath: _posts/2016-03-28-join-us-today.md
@@ -22,7 +22,7 @@ url: join-us-today/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4ad9a0a-63f7-4060-b25e-3533c6849538.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98a97571-13ee-4b20-b036-f63e4cd6acef.jpg)
 
 We are looking for you with a passion for 
 
