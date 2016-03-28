@@ -1,13 +1,13 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "Ocean Data User?\_Be amongst the first to access actionable underwater data and insights\_at a fraction of your current costs."
-datePublished: '2016-03-28T21:36:08.468Z'
-dateModified: '2016-03-28T21:34:35.477Z'
+datePublished: '2016-03-28T21:37:46.625Z'
+dateModified: '2016-03-28T21:37:43.083Z'
 title: Be amongst the first to benefit from new insights and revenue streams.
 author: []
 sourcePath: _posts/2016-03-28-get-in-touch-today.md
@@ -18,7 +18,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: get-in-touch-today/index.html
 _type: Blurb
 
 ---
